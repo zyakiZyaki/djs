@@ -1,0 +1,11 @@
+{
+  "name": "my-djs-project",
+  "version": "0.1.0",
+  "entry": "src/main.js",
+  "modules": "./modules",
+  "scripts": {
+    "dev": "djs run src/main.js",
+    "build": "djs build src/main.js",
+    "test": "djs test tests/"
+  }
+}

@@ -1,0 +1,6 @@
+/target
+*.native
+*.native.rs
+fib*
+tests/bench/
+bench_all.sh

@@ -1,0 +1,12 @@
+[package]
+name = "djs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "djs"
+path = "src/lib.rs"
+
+[dependencies]
+ureq = "2"
+serde_json = "1"
